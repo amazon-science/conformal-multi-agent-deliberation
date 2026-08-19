@@ -1,0 +1,4 @@
+numpy
+pandas
+boto3
+datasets
